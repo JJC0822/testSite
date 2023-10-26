@@ -1,0 +1,39 @@
+1. html와 css, js를 이용하여 사이트 구조를 만들고 mq, gsap를 포함하여 스크롤이벤트 구현 및 반응형 웹페이지 완성
+2. 요구사항 및 구조 분석 
+3. 역할분담
+
+레퍼런스 사이트
+< https://mfunch.com/index.html >
+
+
+231026  
+1. 폰트 사이즈, 이미지 사이즈 단위 정하기
+2. 협업을 위해 div / section 구조 통일
+3. 모바일, pc 작업 해상도 통일
+
+gasp 참고 사이트
+https://youtu.be/xn6rwG-DinA?si=536y165pjuewgXca 기초 1강
+https://youtu.be/W5gcGtgDryc?si=115-SA1Q2At-Zdca 기초 2강
+
+
+https://youtu.be/_rAAY_Zp4FI?si=8nGx1vPRsgrjIRwq 1강
+https://youtu.be/T9kkvtHaq8E?si=g_4oTZ_eRlgUOmvW 2강
+https://youtu.be/bP7iGE3YKOU?si=tSXX95zYMNjA1SY2 3강
+https://youtu.be/neBcJlgfu_o?si=LxMEnsw_PUHimY8R 4강
+
+gsap 사용하여 스크롤이벤트
+폰트 사이즈 단위 rem
+이미지 단위 %
+제외 페이지 about
+모바일 해상도 아이폰12pro 
+pc 해상도 1200px
+폰트 pretendara  https://noonnu.cc/font_page/694
+section 
+메인 이미지 li 사용
+색상 코드 #EA5028
+
+
+모바일 > pc 
+1. 이미지 정리 후 이름 변경 - 최수민
+2. 메인 이미지 배치 구조 작성하기
+3. 
