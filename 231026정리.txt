@@ -16,10 +16,7 @@ https://youtu.be/xn6rwG-DinA?si=536y165pjuewgXca 기초 1강
 https://youtu.be/W5gcGtgDryc?si=115-SA1Q2At-Zdca 기초 2강
 
 
-https://youtu.be/_rAAY_Zp4FI?si=8nGx1vPRsgrjIRwq 1강
-https://youtu.be/T9kkvtHaq8E?si=g_4oTZ_eRlgUOmvW 2강
-https://youtu.be/bP7iGE3YKOU?si=tSXX95zYMNjA1SY2 3강
-https://youtu.be/neBcJlgfu_o?si=LxMEnsw_PUHimY8R 4강
+https://youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq&si=HwcTUAol8-MQFLna 재생목록
 
 gsap 사용하여 스크롤이벤트
 폰트 사이즈 단위 rem
