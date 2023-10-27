@@ -12,3 +12,6 @@ https://blog.naver.com/sangsan23/223046107048
 -비율
 화면 늘리고 줄였을때 그 이미지나 객체가 고정값이면px비율
 늘리는 값에 따라 같이 변하면 %비율
+
+-마우스 따라다니는 이미지 효과
+https://www.youtube.com/watch?v=qbbMFxyetCI
