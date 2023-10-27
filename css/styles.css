@@ -24,7 +24,7 @@ body {
 }
 .h_top1 li:nth-child(2){
   width: 32px;
-  color: #ea5028;
+  color: #96ea28;
 }
 
 .h_txt {
@@ -50,7 +50,7 @@ body {
 }
 .meteor img:nth-child(1) {
   left: 45%;
-  width: 55px;
+  width: 200px;
 }
 .meteor img:nth-child(2) {
   left: 55%;
